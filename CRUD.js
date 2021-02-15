@@ -10,7 +10,8 @@ export class CRUD extends Component {
       flag: true,
       empList: [],
       index: "",
-      nameError:''
+      nameError:'',
+      passError:''
     };
   }
 
